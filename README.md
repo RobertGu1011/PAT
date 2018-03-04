@@ -2,3 +2,5 @@ The repo implement PAT completely，Programming Abilities Test of zhejiang Unive
 
 - "brif.md" is discription of question.
 - "main.cpp" is answer that implement with C++.
+
+- test git clone
